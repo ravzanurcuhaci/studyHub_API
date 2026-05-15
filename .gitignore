@@ -483,3 +483,7 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 *.db
+
+# SQLite WAL files
+studyhub.db-shm
+studyhub.db-wal
